@@ -15,7 +15,7 @@ export const late = {
     <h1>The party was over</h1>
     <br /><br /><br />
     <p>
-        Yes, my gift for you is kinda simple, cheap, and weird ? &#128534<br>
+        Yes, my gift for you is aina/lily, cheap, and weird ? &#128534<br>
         B-but. It's only for you. &#128150
     </p>
 `,
